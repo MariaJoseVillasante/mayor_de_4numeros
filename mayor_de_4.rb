@@ -12,7 +12,7 @@ elsif numero2 >= numero1 && numero2 >= numero3 && numero2 >= numero4
 elsif numero3 >= numero1 && numero3 >= numero2 && numero3 >= numero4
     puts numero3
 
-else numero4 >= numero1 && numero4 >= numero2 && numero4 >= numero3
+else 
     puts numero4
         
 end
